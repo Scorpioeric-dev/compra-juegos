@@ -14,7 +14,7 @@ export default class Catalog extends Component {
             <div>
             <Hero/>
             <Game/>
-                <h1>Catalog</h1>
+               
             </div>
         )
     }
