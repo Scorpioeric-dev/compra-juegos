@@ -5,8 +5,8 @@
     padding:0 1rem;
     max-width:1000px;
     margin:0 auto;
-   
-    
+   background:linear-gradient(to right,green,white,red);
+  
   }
   
   .logo {
